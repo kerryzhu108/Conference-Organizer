@@ -8,7 +8,7 @@ import javafx.scene.layout.HBox;
  */
 
 public interface IScene {
-    int x = 400;
+    int x = 500;
     int y = 700;
 
     void constructScene();
