@@ -14,4 +14,4 @@ Autosave: User accounts, messages, and events are saved after the application cl
 
 ## Setup
 1. Open the phase2 folder, right click src, mark directory as sources root 
-2. Start the program by running AppMain.java in com.group0179
+2. Start the program by running AppMain.java in phase2/src/com.group0179
