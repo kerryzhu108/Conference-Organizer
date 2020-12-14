@@ -9,8 +9,8 @@ Attendees can view, join and leave events, as well as message their friends and 
 ## Extra features 
 Predictive text: Automatically suggests input when searching for contacts or events.   
 User statistics: Attendees can view their account activity and organizers can view general user activity.  
-Language support: Can run the program in both English and Chinese
-
+Language support: Can run the program in both English and Chinese.  
+Autosave: User accounts, messages, and events are saved after the application closes.
 
 ## Setup
 1. Open the phase2 folder, right click src, mark directory as sources root 
