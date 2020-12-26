@@ -1,5 +1,6 @@
 # Conference Organizer
-The applicantion allows users to host and join events as well as communicate with each other.  
+The applicantion allows users to host and join events as well as communicate with each other. 
+Demo: https://youtu.be/dkFVCPOrP38
 
 ## Basic Features
 Organizers can create rooms, schedule, and modify events.  
